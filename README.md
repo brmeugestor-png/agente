@@ -60,7 +60,7 @@ PASSO 3 - INSTALAÇÃO EASYPANEL
 
 PASSO INSTALE O EASYPANEL
 COMANDO
- - curl -sSL https://get.easypanel.io | sh
+  curl -sSL https://get.easypanel.io | sh
 
 CONECTE NA SUA VPS PELO NAVEGADOR 
 
@@ -70,7 +70,7 @@ crie uma conta no EASYPANEL
 =========================================================================
 PASSO 4 - CRIAÇÃO DO PROJETO
 
--  CLIQUE EM CRIAR PROJETO
+  CLIQUE EM CRIAR PROJETO
 
 Nome do projeto deve ficar minúsculo.
 
